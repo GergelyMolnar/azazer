@@ -1,7 +1,4 @@
 apache-beam
 apache-beam[gcp]
 dateparser
-gcsfs
 pandas
-pytest
-google-cloud
